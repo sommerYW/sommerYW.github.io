@@ -158,7 +158,7 @@ body,
   height: 100%;
 }
 body {
-  background: url("https://raw.githubusercontent.com/qilicun/qilicun.github.io/blog/themes/landscape-f/source/css/images/bg.png") #eee;
+  background: url("https://raw.githubusercontent.com/sommerYW/sommerYW.github.io/    master/css/images/bg1.jpg") #eee;
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .outer {
@@ -210,7 +210,7 @@ body {
   -ms-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   z-index: 1;
-  background: url("https://raw.githubusercontent.com/qilicun/qilicun.github.io/blog/themes/landscape-f/source/css/images/bg.png") #eee;
+  background: url("https://raw.githubusercontent.com/sommerYW/sommerYW.github.io/    master/css/images/bg1.jpg") #eee;
 }
 .mobile-nav-on #wrap {
   left: 280px;
@@ -396,7 +396,7 @@ body {
   z-index: -1;
 }
 #banner {
-  background: url("https://raw.githubusercontent.com/sommerYW/sommerYW.github.io/master/css/images/White-walker.jpg") center;
+  background: url("https://raw.githubusercontent.com/sommerYW/sommerYW.github.io/master/css/images/summer.jpg") center;
 }
 #header-title {
   text-align: center;
