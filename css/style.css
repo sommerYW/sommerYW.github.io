@@ -396,7 +396,7 @@ body {
   z-index: -1;
 }
 #banner {
-  background: url("/Users/ywang/Documents/github/blog/themes/landscape-f/source/css/images/winter1.jpg") center;
+  background: url("/images/winter1.jpg") center;
 }
 #header-title {
   text-align: center;
