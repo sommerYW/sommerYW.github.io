@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 子不语
-subtitle: 子不语怪力乱神
-description: qilicun's blog
-author: qilicun
-email: qilicun@me.com
+title: Sommer
+subtitle: Winter is coming.
+description: Sommer's blog
+author: Sommer
+email: jennywang007@qq.com
 #language: zh-CN
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://qilicun.me
+url: http://sommeryw.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
