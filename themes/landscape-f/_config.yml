@@ -44,10 +44,8 @@ baidushare: true
 
 # blogroll
 links:
-- name: zhuao
-  link: http://zhuao.me
-- name: wang ying
-  link: http://sommeryw.github.io
+- name: qilicun
+  link: http://qilicun.me
 
 # about me
 about_me:
@@ -55,7 +53,7 @@ about_me:
   gravatar: a@abc.com
   avatar: 
   texts:
-  - I'm qilicun.
+  - I'm Sommer.
 
 # display updated
 display_updated: true
