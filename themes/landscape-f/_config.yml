@@ -1,0 +1,61 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+rss: /atom.xml
+github: https://github.com/sommerYW
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tagcloud
+- archive
+- recent_posts
+- duoshuo_recent_comments
+- links
+- weibo
+- tag
+
+# Miscellaneous
+google_analytics:
+favicon: https://raw.githubusercontent.com/qilicun/qilicun.github.io/blog/favicon48.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Toc
+toc:
+  article: false   ## show contents in article.
+  aside: true     ## show contents in aside.
+# Scroll to top
+go_top: true
+
+# duoshuo
+duoshuo_shortname: qilicun
+
+# baidu share
+baidushare: true
+
+# blogroll
+links:
+- name: zhuao
+  link: http://zhuao.me
+- name: wang ying
+  link: http://sommeryw.github.io
+
+# about me
+about_me:
+  title: ABOUT ME
+  gravatar: a@abc.com
+  avatar: 
+  texts:
+  - I'm qilicun.
+
+# display updated
+display_updated: true
