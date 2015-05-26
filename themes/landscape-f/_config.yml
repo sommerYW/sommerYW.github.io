@@ -12,15 +12,13 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- about
 - category
-- tagcloud
-- archive
 - recent_posts
+- tagcloud
 - duoshuo_recent_comments
 - links
 - weibo
-- tag
+- archive
 
 # Miscellaneous
 google_analytics:
