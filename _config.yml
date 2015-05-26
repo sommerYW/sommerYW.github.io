@@ -8,7 +8,7 @@ subtitle: winter is coming
 description: sommer's blog
 author: sommer
 email: sommeren@126.com
-#language: zh-CN
+language: en-US
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://sommeryw.github.io
@@ -39,7 +39,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: uncategorized
+default_category: 碎碎念
 category_map:
 tag_map:
 
