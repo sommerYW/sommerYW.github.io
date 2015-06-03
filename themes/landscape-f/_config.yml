@@ -13,13 +13,12 @@ fancybox: true
 sidebar: right
 widgets:
 - category
-- tagcloud
-- archive
 - recent_posts
+- tagcloud
 - duoshuo_recent_comments
 - links
 - weibo
-- tag
+- archive
 
 # Miscellaneous
 google_analytics:
@@ -48,7 +47,7 @@ links:
   link: http://sommeryw.github.io
 
 # about me
-about_me:
+about_me: I like winter.
   title: ABOUT ME
   gravatar: a@abc.com
   avatar: 
