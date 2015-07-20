@@ -12,14 +12,14 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
+- recent_posts
 - category
 - tagcloud
 - archive
-- recent_posts
 - duoshuo_recent_comments
-- links
 - weibo
 - tag
+- links
 
 # Miscellaneous
 google_analytics:
@@ -44,8 +44,8 @@ baidushare: true
 
 # blogroll
 links:
-- name: Sommer
-  link: http://sommeryw.github.io
+- name: 七里村
+  link: http://qilicun.me
 
 # about me
 about_me:

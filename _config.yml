@@ -7,7 +7,7 @@ title: Sommer
 subtitle: winter is coming 
 description: sommer's blog
 author: sommer
-email: sommeren@126.com
+email: sommeren@sina.com
 #language: zh-CN
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -47,9 +47,9 @@ tag_map:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 1
-category: 1
-tag: 1
+archive: 2
+category: 2
+tag: 2
 
 # Server
 ## Hexo uses Connect as a server
