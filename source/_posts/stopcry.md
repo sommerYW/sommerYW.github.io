@@ -3,7 +3,7 @@ date: 2009-01-16 23:33:34
 tags: 
     - review
     - music
-categories: 视听共享
+categories: 随感随记
 ---
 
 重看了蝴蝶效应 
