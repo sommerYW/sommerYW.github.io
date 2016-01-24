@@ -1,7 +1,7 @@
 title: (转载)数学研究生选专业指南
 date: 2010-07-06 03:01:51
 tags: math anecdote
-categories: 趣谈分享
+categories: 后学生时代
 ---
 ［转载自南京大学小百合BBS (http://bbs.nju.edu.cn)］
 ［D_Math 讨论区]

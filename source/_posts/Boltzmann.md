@@ -4,7 +4,7 @@ tags:
     - math anecdote
     - memory
     - PhD life
-categories: 趣谈分享
+categories: 后学生时代
 ---
 
 昨天见到同事桌上一本格子Boltzmann的书，勾起回忆，用一个看来的小趣事怀念一下曾经折腾了我整四年的Boltzmann，并庆祝一下毕业以后再也没跟其打交道了：）
