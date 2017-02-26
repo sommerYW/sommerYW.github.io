@@ -44,8 +44,10 @@ baidushare: true
 
 # blogroll
 links:
-- name: 七里村
-  link: http://qilicun.me
+- name: 子不语的碎碎叨叨
+  link: http://qilicun.github.io
+- name: 大帝的科研执念
+  link: http://zr9558.com
 
 # about me
 about_me:
