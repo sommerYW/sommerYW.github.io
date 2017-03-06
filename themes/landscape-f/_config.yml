@@ -15,10 +15,10 @@ widgets:
 - recent_posts
 - category
 - tagcloud
-- archive
 #- duoshuo_recent_comments
 - weibo
-- tag
+#- tag
+- archive
 - links
 
 # Miscellaneous
