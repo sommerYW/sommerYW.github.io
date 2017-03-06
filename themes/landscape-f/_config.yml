@@ -16,7 +16,7 @@ widgets:
 - category
 - tagcloud
 - archive
-- duoshuo_recent_comments
+#- duoshuo_recent_comments
 - weibo
 - tag
 - links
