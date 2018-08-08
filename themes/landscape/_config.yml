@@ -8,11 +8,6 @@ rss: /atom.xml
 excerpt_link: Read More
 fancybox: true
 
-# Toc
-toc:
-  article: true
-  asie: true
-
 # Sidebar
 sidebar: right
 widgets:
@@ -21,7 +16,6 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
-- duoshuo_recent_comments
 
 # Miscellaneous
 google_analytics:
@@ -30,5 +24,3 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
-
-duoshuo_shortname: qilicun
