@@ -14,7 +14,7 @@ sidebar: right
 widgets:
 - recent_posts
 - category
-- tagcloud
+#- tagcloud
 #- duoshuo_recent_comments
 - weibo
 #- tag
